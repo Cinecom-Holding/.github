@@ -92,12 +92,14 @@ Bienvenue sur l'organisation GitHub officielle du groupe Cinécom Holding, qui r
 
 ## 💡 Nos valeurs
 
+<div align="center">
 <table>
 <tr><td width="60" align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/target-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/target-light.svg"><img src="./assets/icons/target-light.svg" width="32" alt="Satisfaction client"></picture></td><td><b>Satisfaction client</b> — notre priorité au quotidien</td></tr>
 <tr><td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/book-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/book-light.svg"><img src="./assets/icons/book-light.svg" width="32" alt="Formation continue"></picture></td><td><b>Formation continue</b> de nos équipes, avec une pédagogie active</td></tr>
 <tr><td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/rocket-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/rocket-light.svg"><img src="./assets/icons/rocket-light.svg" width="32" alt="Innovation"></picture></td><td><b>Innovation</b> et veille sur les évolutions technologiques</td></tr>
 <tr><td align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/handshake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/icons/handshake-light.svg"><img src="./assets/icons/handshake-light.svg" width="32" alt="Partenariat durable"></picture></td><td><b>Partenariat durable</b>, avec Bouygues Telecom et nos boutiques</td></tr>
 </table>
+</div>
 
 <img src="./assets/banners/divider.svg" width="100%"/>
 
